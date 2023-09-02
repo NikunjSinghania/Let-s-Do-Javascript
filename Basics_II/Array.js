@@ -32,9 +32,10 @@ let arr_3 = arr.join()
 // console.log(arr.join());
 // console.log(typeof arr.join());
 
-console.log(arr);
+// console.log(arr);
 // console.log(arr.slice(1,2));
 // console.log(arr.slice(-3, -1));
 
-console.log(arr.splice(1, 3));
-console.log(arr);
+// console.log(arr.splice(1, 3));
+// console.log(arr);
+
